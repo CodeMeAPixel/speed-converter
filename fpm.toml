@@ -1,0 +1,15 @@
+name = "speed-converter"
+version = "0.1.0"
+license = "MIT"
+author = "CodeMeAPixel"
+maintainer = "hey@codemeapixel.dev"
+copyright = "Copyright 2025, Pixelated"
+
+[build]
+auto-executables = true
+auto-tests = true
+
+[[executable]]
+name = "speed-converter"
+source-dir = "app"
+main = "main.f90"

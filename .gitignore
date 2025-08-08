@@ -1,0 +1,51 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+speed-converter
+test_runner
+
+# Fortran module files
+*.mod
+*.smod
+
+# Build directory (contains FPM build artifacts)
+build/
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+*.old
